@@ -21,7 +21,7 @@ Highcharts.chart('grafcyklyivf', {
       type: 'line'
   },
   title: {
-      text: 'Počet cyklů zaslaných do Národního registru reprodukčního zdraví'
+      text: 'Počet výkonů asistované reprodukce'
   },
   credits: {
     text: 'Zdroj: ÚZIS',
@@ -48,9 +48,10 @@ Highcharts.chart('grafcyklyivf', {
   },
   series: [{
       name: 'všechny cykly',
-      data: [17682, 21316, 22707, 23798, 24550, 27879, 32245, 35875, 38081, 41017, 42773]
+      data: [17682, 21316, 22707, 23798, 24550, 27879, 32245, 35875, 38081, 41017, 42773],
+      visible:false
   }, {
-      name: 'darování oocytů',
+      name: 'darování vajíček',
       data: [675, 1555, 1900, 2361, 3110, 3696, 4319, 4924, 5018, 5374, 5003]
   },
   {
@@ -59,14 +60,16 @@ Highcharts.chart('grafcyklyivf', {
 },
 {
   name: 'ket - rozmrazení embyrií',
-  data: [4218, 4793, 4896, 5025, 4520, 6224, 7715, 9507, 11240, 12260, 13714]
+  data: [4218, 4793, 4896, 5025, 4520, 6224, 7715, 9507, 11240, 12260, 13714],
+  visible:false
 },
 {
   name: 'freeze - zmrazení embyrií',
-  data: [0, 26, 231, 194, 152, 426, 548, 663, 789, 1280, 2081]
+  data: [0, 26, 231, 194, 152, 426, 548, 663, 789, 1280, 2081],
+  visible:false
 },
 {
-  name: 'přijetí darovaných oocytů',
+  name: 'přijetí darovaných vajíček',
   data: [0, 153, 2246, 2829, 3735, 4297, 5199, 5643, 5769, 6557, 6057]
 },
 ]
@@ -78,7 +81,7 @@ Highcharts.chart('grafvek', {
       type: 'line'
   },
   title: {
-      text: 'Průměrný věk žen při zahájení cyklu'
+      text: 'Průměrný věk žen při zahájení léčby'
   },
   credits: {
     text: 'Zdroj: ÚZIS',
@@ -104,18 +107,20 @@ Highcharts.chart('grafvek', {
       }
   },
   series: [{
-      name: 'ivf',
+      name: 'ivf (ze zkumavky)',
       data: [34, 33.5, 33.9, 34, 34.4, 34.8, 35.1, 35.3, 35.6, 35.8]
   }, {
-      name: 'přijámání darovaných oocytů',
-      data: [40, 40.7, 41.2, 41.3, 41.2, 41, 41.2, 41.2, 41.3, 41.3]
+      name: 'přijámání darovaných vajíček',
+      data: [40, 40.7, 41.2, 41.3, 41.2, 41, 41.2, 41.2, 41.3, 41.3],
+      visible:false
   },
   {
     name: 'přenos zmražených embryí',
-    data: [34.4, 35.2, 35.3, 35.9, 36.4, 36.7, 36.9, 37.2, 37.1, 37.2]
+    data: [34.4, 35.2, 35.3, 35.9, 36.4, 36.7, 36.9, 37.2, 37.1, 37.2],
+    visible:false
 },
 {
-  name: 'darování oocytů',
+  name: 'darování vajíček',
   data: [28.8, 28, 27.4, 27, 26.7, 26.7, 26.7, 27, 27, 27]
 },
 ]
@@ -126,14 +131,14 @@ Highcharts.chart('darovani', {
       type: 'bar'
   },
   title: {
-      text: 'Celkový počet darovaných a přijatých oocytů 2010-2017'
+      text: 'Celkový počet darovaných a přijatých vajíček'
   },
   credits: {
     text: 'Zdroj: ÚZIS',
     href: 'https://www.uzis.cz/index.php?pg=registry-sber-dat--registrace-a-vstup-do-registru'
 },
   xAxis: {
-      categories: ['češky', 'cizinky']
+      categories: ['Češky', 'cizinky']
   },
   yAxis: {
       min: 0,
@@ -164,7 +169,7 @@ Highcharts.chart('darovani', {
         type: 'column'
     },
     title: {
-        text: 'Přijetí darovaných oocytů po jednotlivých letech'
+        text: 'Přijetí darovaných vajíček v jednotlivých letech'
     },
     credits: {
       text: 'Zdroj: ÚZIS',
@@ -207,7 +212,7 @@ Highcharts.chart('darovani', {
         }
     },
     series: [{
-        name: 'češky',
+        name: 'Češky',
         data: [458, 553, 634, 683, 769, 820, 783, 828]
 
     }, {
