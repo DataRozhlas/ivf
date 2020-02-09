@@ -1,5 +1,5 @@
 title: "Jak se v Česku vyrábějí děti<br>Umělé oplodnění jako rychloobrátkové zboží"
-perex: "Darování, přijímání, oplodňování, zmrazování. Zatímco před deseti lety tuzemské kliniky asistované reprodukce provedly 23 tisíc cyklů s ženskými vajíčky, v roce 2017 jich bylo téměř dvakrát tolik. Rozmach asistované reprodukce ale řada odborníků považuje za výnosný byznys, odhadem se v něm ročně protočí čtyři miliardy korun, přičemž zhruba desetina putuje z veřejných financí. Raketový růst by navíc mohla podpořit novela zákona, která ženám umožní proplácet umělé oplodnění do vyššího věku."
+perex: "Darování, přijímání, oplodňování, zmrazování. Zatímco před deseti lety tuzemské kliniky asistované reprodukce provedly 23 tisíc cyklů směřujících k otěhotněn, v roce 2017 jich bylo téměř dvakrát tolik. Rozmach asistované reprodukce ale řada odborníků považuje za výnosný byznys, odhadem se v něm ročně protočí čtyři miliardy korun, přičemž zhruba desetina putuje z veřejných financí. Raketový růst by navíc mohla podpořit novela zákona, která umožní proplácet ženám umělé oplodnění do vyššího věku."
 coverimg: https://www.irozhlas.cz/sites/default/files/uploader/2018-09-03t065251z_1_180920-100847_mos.jpg
 coverimg_note: "Foto <a href='https://reuters.com'>Reuters</a>"
 styles: []
@@ -13,13 +13,14 @@ Většina ze 43 tuzemských klinik, jež poskytují umělé oplodnění, je v so
 </div>
 </wide>
 
-Emma Capital patří Jiřímu Šmejcovi, menšinovému vlastníkovi společnosti Home Credit. A podle mluvčího Zuny není vyloučeno, že se v budoucnu na trh s reprodukční medicínou zaměří ještě více.
+Emma Capital patří miliardáři Jiřímu Šmejcovi, menšinovému vlastníkovi společnosti Home Credit. A podle mluvčího Zuny není vyloučeno, že se v budoucnu na trh s reprodukční medicínou zaměří ještě více.
 
 Obstát v konkurenci ale nebude snadné, a to kvůli dominantnímu postavení firmy FutureLife. Společnost z koncernu SynBiol, který nynější premiér Andrej Babiš (ANO) vložil do svěřenského fondu, totiž ovládá třetinu tuzemského trhu.
 
 Babiš vstoupil na trh v roce 2014 s bývalým investičním ředitelem Penty Jozefem Janovem. Nyní je FutureLife podle Hospodářských novin v celoevropském měřítku druhým nejvýznamnějším hráčem. Nekonsolidované tržby skupiny podle listu vyšplhaly v roce 2018 na 3,1 miliardy korun. Společnost ale působí ve zdravotnictví také mimo reprodukční medicínu. 
 
 <right> 
+Co je to cyklus?<br> 
 Cyklem se rozumí proces směřující za pomoci metod asistované reprodukce k otěhotnění dané ženy. IVF - provedeno mimotělní oplození vajíčka (ve zkumavce). KET - využívá rozmražených embryí, uchovaných z předcházejícího cyklu ve zkumavce. Darování oocytu - vajíčka jsou darována jinému neplodnému páru. Přijetí oocytu - přijetí vajíčka od cizí dárkyně. Jednotlivé pokusy eviduje Národní registr asistované reprodukce. V roce 2007 a 2008 jsou cykly přijetí darovaných vajíček započítány do cyklu IVF.
 </right>
 
@@ -43,12 +44,16 @@ Za problematickou považuje novelu také část opozice, a to kvůli již zmín�
 
 „Pro mě je novela obrovský střet zájmů pana premiéra. Delší proplácení z veřejného rozpočtu znamená vyšší zisky ze zdravotního pojištění, čili z veřejných rozpočtů, pro soukromé firmy, kde konečným beneficientem je náš předseda vlády,“ reagovala na dotaz Radiožurnálu pirátská poslankyně a členka výboru pro zdravotnictví Olga Richterová.
 
+Podobně to vnímá i poslanec Vlastimil Válek z TOP 09 nebo Bohuslav Svoboda z ODS. Ten navíc jako gynekolog upozorňuje na zdravotní rizika. „Limit věkem je daný tím, že dochází k vyšší frekvenci vývojových vad, konkrétně u Downova syndromu. Ta nutnost tady není, to je otázka ekonomická. Vyšší věky (pacientek) vyžadují zásadnější stimulaci a cena je rozdílná. A samozřejmě úspěšnost klesá,“ řekl Radiožurnálu.
+ 
+Jednoznačnou podporu zřejmě návrh nebude mít ani u koaliční ČSSD. Rezervovaně se k němu staví třeba poslankyně Alena Gajdůšková: „Ten byznys do zdravotnictví nepatří vůbec, měli bychom vnímat zdravotnictví jako službu. I asistovanou reprodukci jako službu těm, kteří z nějakého důvodu děti přirozenou cestou mít nemohou.“
+
 Podle ministra zdravotnictví Adama Vojtěcha (za ANO) ale původní požadavek na novelizaci vycházel z ministerstva práce a sociálních věcí, není tedy iniciativou resortu zdravotnictví spadajícího pod Babišovo hnutí ANO.
 
 „Tento argument se nabízí, není ovšem validní. Doporučení o navýšení proběhlo na podzim 2017, tehdy jsem nebyl ministrem. Při vytváření novely zákona o veřejném zdravotním pojištění jsem velmi zvažoval, jestli tam tuto část nechat, právě z toho důvodu, že budeme obviňováni z nekalých úmyslů,“ řekl Vojtěch. 
 
 ## Marketing soukromých klinik
-Narůstající věk žen, které metody asistované reprodukce vyhledávají, potvrzují i pracovníci jednotlivých klinik. „V roce 2018 byl průměrný věk pacientek v našem centru přibližně 41 let, ve srovnání s rokem 2017 šlo o nárůst přibližně 5 let,“ přiblížil serveru iROZHLAS.cz Ondřej Šebestík z kliniky IVF Cube. Pražské kliniky v porovnání s ostatními evidují vyšší procento zahraničních klientek, oslovená IVF Cube okolo 50 procent. „Nejčastěji z Velké Británie, Německa, Irska, Holandska, apod,“ dodal Šebestík.
+Narůstající věk žen, které metody asistované reprodukce vyhledávají, potvrzují i pracovníci jednotlivých klinik. „V roce 2018 byl průměrný věk pacientek v našem centru přibližně 41 let, ve srovnání s rokem 2017 šlo o nárůst přibližně 5 let,“ přiblížil serveru iROZHLAS.cz Ondřej Šebestík z kliniky IVF Cube. Pražské kliniky v porovnání s ostatními evidují vyšší procento zahraničních klientek, oslovená IVF Cube okolo 50 procent. „Nejčastěji z Velké Británie, Německa, Irska, Holandska, a podobně,“ dodal Šebestík.
 
 Právě cizinky také častěji využívají možnosti příjmu darovaných vajíček. Data z let 2010 až 2017 ukazují, že zatímco jejich dárkyněmi byly téměř vždy ženy se současným pobytem v České republice, příjemkyněmi naopak v naprosté většině cyklů cizinky.
 
@@ -59,10 +64,10 @@ Právě cizinky také častěji využívají možnosti příjmu darovaných vaj�
 
 Češky podle statistik průměrně darují 5000 vajíček za rok, častou motivací bývá finanční kompenzace. A zatímco věk žen pokoušejících se o dítě postupně roste, u dárkyň je to opačně.
  
-Dlouhodobý pokles věku dárkyň podle Národního registru asistované reprodukce odráží intensivní náborové působení center v elektronických médiích cílené podle profilu uživatelek na vhodnou věkovou skupinu.
+Dlouhodobý pokles věku dárkyň podle Národního registru asistované reprodukce odráží intenzivní náborové působení center v elektronických médiích cílené podle profilu uživatelek na vhodnou věkovou skupinu.
 
 ## ,Hezký přivýdělek‘
-Jak dokládá příběh nyní třicetileté Terezy, v oslovování dárkyň vedou soukromé kliniky - nabízí totiž řádově o dva až pět tisíc korun za odběr více, než nemocniční zařízení.
+Jak dokládá příběh nyní třicetileté Terezy, v oslovování dárkyň vedou soukromé kliniky - nabízí totiž řádově o dva až pět tisíc korun za odběr více než nemocniční zařízení.
 
 Tereza odběr podstoupila před deseti lety, reprodukční byznys v Česku byl tehdy na vzestupu - ročně se odebralo zhruba 2500 vajíček. Nyní soukromé kliniky nabízejí v průměru 28 000 korun za jeden odběr.
 
@@ -71,15 +76,15 @@ Tereza odběr podstoupila před deseti lety, reprodukční byznys v Česku byl t
 </div>
 </wide>
 
-Darování je podle mladé ženy prezentováno jako neinvazivní. Většina případů opravdu končí bez komplikací, Tereza ale na svém příkladu vysvětluje, že je nutné zvážit všechna rizika.
+Darování je podle mladé ženy prezentováno jako snadný zákrok. Většina případů opravdu končí bez komplikací, Tereza ale na svém příkladu vysvětluje, že je nutné zvážit všechna rizika.
  
 „Dali mi podepsat třístránkovou smlouvu. Byla v ní kouzelná větička, že jsem byla ‚do vyčerpání poučena‘ - sestřička mi tehdy řekla, že paní doktorka mi k tomu řekne víc. Ta mi vysvětlovala spíše souvislosti s hormonální stimulací, tedy jaké změny mohu pociťovat. Že dostanu hromadu hormonů, budu mít výkyvy nálad a zmastí se mi vlasy. To nejsou důvody, proč to zrušit,“ popsala Radiožurnálu.
 
 Prý ji uklidnilo vysvětlení lékařů, že se jedná o celkem snadnou operaci - po zákroku si ženy na hodinu odpočinou a mohou jít domů. Započala tak hormonální stimulace a následoval odběr v celkové narkóze.
  
-„Po celkové narkóze jsem se probudila a měla obrovskou žízeň. Dostala jsem napít a ihned se pozvracela, což je mimo jiné známka vnitřního krvácení. Můj bývalý přítel věděl, že je něco špatně. Že jsem se neprobrala jako ostatní klientky, které byly malátné, ale v pohodě,“ pokračovala dárkyně. Na klinice podle ní byli apatičtí. „Říkali no a co, tak se pozvracela, bez zájmu.“
+„Po celkové narkóze jsem se probudila a měla obrovskou žízeň. Dostala jsem napít a ihned se pozvracela, což je mimo jiné známka vnitřního krvácení. Můj bývalý přítel věděl, že je něco špatně. Že jsem se neprobrala jako ostatní klientky, které byly malátné, ale v pohodě,“ pokračovala dárkyně. Na klinice to podle ní neřešili dostatečně.
 
-Její stav se ale nelepšil, a tak ji přítel odvezl do Nemocnice na Bulovce. O pár hodin později Tereza byla znovu pod úplnou narkózou. „Přišla jsem o 1,8 litru krve. Řekli mi, že jsem měla prasklý vejcovod, při šití taky měli problém s tím, že se má tkáň trochu drolila,“ líčila.
+Její stav se nelepšil, a tak ji přítel odvezl do Nemocnice na Bulovce. O pár hodin později Tereza byla znovu pod úplnou narkózou. „Přišla jsem o 1,8 litru krve. Řekli mi, že jsem měla prasklý vejcovod, při šití taky měli problém s tím, že se má tkáň trochu drolila,“ líčila.
  
 Podobný odběr vajíček podstupuje ročně několik set žen. Komplikace sice nejsou časté, ale podle Terezy na jejich možnost soukromá klinika málo upozornila. Po domácí rekonvalescenci se tak na kliniku vrátila, místo setkání s doktory na ni ale čekal právník.
  
@@ -96,4 +101,4 @@ Naráží tak na možnou uzavřenost soukromých klinik, které se spíše než 
 
 Pracoviště asistované reprodukce přirovnává k uzavřenému světu, který sám sebe utvrzuje ve správnosti svého počínání. „Je to problém narůstající s narůstajícím počtem pracovišť reprodukční medicíny. Na počátku 90. let jsme měli větší poměr pacientů s poruchami plodnosti, kteří navštívili andrologické pracoviště před pokusem o IVF než po, protože asistovaná reprodukce nebyla tak dostupná. Nyní je tomu právě naopak,“ vysvětluje.
 
-Podle něj asistovaná reprodukce nevnímá muže jako nemocného člověka, který mnohdy potřebuje dlouhodobou až celoživotní medicinskou péči, ale jako zdroj spermií. „Léčba mužů s poruchami plodnosti má být vedena s cílem obnovit fyziologické možnosti fertility, a teprve pokud to není možné, tak přispět k úspěchu asistované reprodukce. Liší v tom, že musí být individuální, není možné muže ošetřovat systémem běžící pás – kompletační linka, který je zaveden v oblasti IVF,“ uzavírá.
+Podle něj asistovaná reprodukce nevnímá muže jako nemocného člověka, který mnohdy potřebuje dlouhodobou až celoživotní medicínskou péči, ale jako zdroj spermií. „Léčba mužů s poruchami plodnosti má být vedena s cílem obnovit fyziologické možnosti fertility, a teprve pokud to není možné, tak přispět k úspěchu asistované reprodukce. Liší se v tom, že musí být individuální, není možné muže ošetřovat systémem běžící pás – kompletační linka, který je zaveden v oblasti IVF,“ uzavírá.
