@@ -1,5 +1,5 @@
 title: "Jak se v Česku vyrábějí děti<br>Umělé oplodnění jako rychloobrátkové zboží"
-perex: "Darování, přijímání, oplodňování, zmrazování. Zatímco před deseti lety tuzemské kliniky asistované reprodukce provedly 23 tisíc cyklů směřujících k otěhotněn, v roce 2017 jich bylo téměř dvakrát tolik. Rozmach asistované reprodukce ale řada odborníků považuje za výnosný byznys, odhadem se v něm ročně protočí čtyři miliardy korun, přičemž zhruba desetina putuje z veřejných financí. Raketový růst by navíc mohla podpořit novela zákona, která umožní proplácet ženám umělé oplodnění do vyššího věku."
+perex: "Darování, přijímání, oplodňování, zmrazování. Zatímco před deseti lety tuzemské kliniky asistované reprodukce provedly 23 tisíc cyklů směřujících k otěhotnění, v roce 2017 jich bylo téměř dvakrát tolik. Rozmach asistované reprodukce ale řada odborníků považuje za výnosný byznys, odhadem se v něm ročně protočí čtyři miliardy korun, přičemž zhruba desetina putuje z veřejných financí. Raketový růst by navíc mohla podpořit novela zákona, která umožní proplácet ženám umělé oplodnění do vyššího věku."
 coverimg: https://www.irozhlas.cz/sites/default/files/uploader/2018-09-03t065251z_1_180920-100847_mos.jpg
 coverimg_note: "Foto <a href='https://reuters.com'>Reuters</a>"
 styles: []
@@ -20,7 +20,7 @@ Obstát v konkurenci ale nebude snadné, a to kvůli dominantnímu postavení fi
 Babiš vstoupil na trh v roce 2014 s bývalým investičním ředitelem Penty Jozefem Janovem. Nyní je FutureLife podle Hospodářských novin v celoevropském měřítku druhým nejvýznamnějším hráčem. Nekonsolidované tržby skupiny podle listu vyšplhaly v roce 2018 na 3,1 miliardy korun. Společnost ale působí ve zdravotnictví také mimo reprodukční medicínu. 
 
 <right> 
-Co je to cyklus?<br> 
+<b> Co je to cyklus?</b><br> 
 Cyklem se rozumí proces směřující za pomoci metod asistované reprodukce k otěhotnění dané ženy. IVF - provedeno mimotělní oplození vajíčka (ve zkumavce). KET - využívá rozmražených embryí, uchovaných z předcházejícího cyklu ve zkumavce. Darování oocytu - vajíčka jsou darována jinému neplodnému páru. Přijetí oocytu - přijetí vajíčka od cizí dárkyně. Jednotlivé pokusy eviduje Národní registr asistované reprodukce. V roce 2007 a 2008 jsou cykly přijetí darovaných vajíček započítány do cyklu IVF.
 </right>
 
