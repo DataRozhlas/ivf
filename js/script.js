@@ -10,40 +10,38 @@ fetch("https://blabla.cz/blabla.json")
   });
 */
 //grafcyklyivf
-
-if (window.innerWidth >= 600 ) {
   Highcharts.setOptions({
     colors: ['#FFCC00', '#EE8027', '#E53434', '#A0067D', '#5E2281', '#172983', '#007BC2', '#89BA17', '#D4B66D', '#B85637', '#A21F16', '#732813', '#5C748C']
 });
 
 Highcharts.chart('grafcyklyivf', {
   chart: {
-      type: 'line'
+      type: 'line',
   },
   title: {
-      text: 'Počet výkonů asistované reprodukce'
+      text: 'Počet výkonů asistované reprodukce',
   },
   credits: {
     text: 'Zdroj: ÚZIS',
-    href: 'https://www.uzis.cz/index.php?pg=registry-sber-dat--registrace-a-vstup-do-registru'
-},
+    href: 'https://www.uzis.cz/index.php?pg=registry-sber-dat--registrace-a-vstup-do-registru',
+  },
   subtitle: {
-      text: ''
+      text: '',
   },
   xAxis: {
-      categories: ['2007', '2008', '2009', '2010', '2011', '2012', '2013', '2014', '2015', '2016', '2017']
+      categories: ['2007', '2008', '2009', '2010', '2011', '2012', '2013', '2014', '2015', '2016', '2017'],
   },
   yAxis: {
       title: {
-          text: 'počet cyklů v tisících'
+          text: 'počet cyklů v tisících',
       }
   },
   plotOptions: {
       line: {
           dataLabels: {
-              enabled: true
+              enabled: true,
           },
-          enableMouseTracking: false
+          enableMouseTracking: false,
       }
   },
   series: [{
@@ -52,29 +50,28 @@ Highcharts.chart('grafcyklyivf', {
       visible:false
   }, {
       name: 'darování vajíček',
-      data: [675, 1555, 1900, 2361, 3110, 3696, 4319, 4924, 5018, 5374, 5003]
+      data: [675, 1555, 1900, 2361, 3110, 3696, 4319, 4924, 5018, 5374, 5003],
   },
   {
     name: 'ivf - umělé oplodnění',
-    data: [12192, 14150, 12843, 12733, 12326, 12296, 12980, 13280, 13205, 15006, 15428]
+    data: [12192, 14150, 12843, 12733, 12326, 12296, 12980, 13280, 13205, 15006, 15428],
 },
 {
   name: 'ket - rozmrazení embyrií',
   data: [4218, 4793, 4896, 5025, 4520, 6224, 7715, 9507, 11240, 12260, 13714],
-  visible:false
+  visible:false,
 },
 {
   name: 'freeze - zmrazení embyrií',
   data: [0, 26, 231, 194, 152, 426, 548, 663, 789, 1280, 2081],
-  visible:false
+  visible:false,
 },
 {
   name: 'přijetí darovaných vajíček',
-  data: [0, 153, 2246, 2829, 3735, 4297, 5199, 5643, 5769, 6557, 6057]
+  data: [0, 153, 2246, 2829, 3735, 4297, 5199, 5643, 5769, 6557, 6057],
 },
 ]
 });
-}
 
 Highcharts.chart('grafvek', {
   chart: {
