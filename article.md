@@ -53,7 +53,7 @@ Podle ministra zdravotnictví Adama Vojtěcha (za ANO) ale původní požadavek 
 „Tento argument se nabízí, není ovšem validní. Doporučení o navýšení proběhlo na podzim 2017, tehdy jsem nebyl ministrem. Při vytváření novely zákona o veřejném zdravotním pojištění jsem velmi zvažoval, jestli tam tuto část nechat, právě z toho důvodu, že budeme obviňováni z nekalých úmyslů,“ řekl Vojtěch. 
 
 ## Marketing soukromých klinik
-Narůstající věk žen, které metody asistované reprodukce vyhledávají, potvrzují i pracovníci jednotlivých klinik. „V roce 2018 byl průměrný věk pacientek v našem centru přibližně 41 let, ve srovnání s rokem 2017 šlo o nárůst přibližně 5 let,“ přiblížil serveru iROZHLAS.cz Ondřej Šebestík z kliniky IVF Cube. Pražské kliniky v porovnání s ostatními evidují vyšší procento zahraničních klientek, oslovená IVF Cube okolo 50 procent. „Nejčastěji z Velké Británie, Německa, Irska, Holandska, a podobně,“ dodal Šebestík.
+Narůstající věk žen, které metody asistované reprodukce vyhledávají, potvrzují i pracovníci jednotlivých klinik. „V roce 2018 byl průměrný věk pacientek v našem centru přibližně 41 let, ve srovnání s rokem 2017 šlo o nárůst přibližně 5 let,“ přiblížil serveru iROZHLAS.cz Ondřej Šebestík z kliniky IVF Cube. Pražské kliniky v porovnání s ostatními evidují vyšší procento zahraničních klientek, oslovená IVF Cube okolo 50 procent. „Nejčastěji z Velké Británie, Německa, Irska, Holandska a podobně,“ dodal Šebestík.
 
 Právě cizinky také častěji využívají možnosti příjmu darovaných vajíček. Data z let 2010 až 2017 ukazují, že zatímco jejich dárkyněmi byly téměř vždy ženy se současným pobytem v České republice, příjemkyněmi naopak v naprosté většině cyklů cizinky.
 
